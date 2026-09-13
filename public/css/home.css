@@ -837,9 +837,5 @@ text-align: left;
 .small_product_box img {
     position: absolute;
     right: 30px;
-    top: 40px;
-}
-.small_product_box .img {
-    position: absolute;
-    top: 60px;
+    bottom: 15px;
 }
