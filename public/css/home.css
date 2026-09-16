@@ -3,7 +3,6 @@
     flex-direction: column;
     height: auto;
 
-    padding-bottom: 200px;
 }
 .white_svg {
     filter: brightness(0) invert(1);
